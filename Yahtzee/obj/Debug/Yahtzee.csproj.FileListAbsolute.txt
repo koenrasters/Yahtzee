@@ -1,0 +1,9 @@
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojAssemblyReference.cache
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.cache
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\koenr\OneDrive - Office 365 Fontys\Documenten\Fontys\2019-2020\Software\Deelproducten\Product De App\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
